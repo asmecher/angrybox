@@ -11,3 +11,5 @@ instructions at <https://www.arduino.cc/en/Tutorial/ArduinoToBreadboard>.
 
 In this configuration, you'll be able to build this project with nothing more
 than the switch, speaker, ATMEGA chip, and battery.
+
+More information here: http://cassettepunk.com/blog/2015/10/15/angry-box/
